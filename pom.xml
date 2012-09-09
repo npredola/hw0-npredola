@@ -23,6 +23,10 @@
 			<scope>import</scope>
 		</dependency>
 	</dependencies>
+	<dependencyManagement>
+		<dependencies>
+		</dependencies>
+	</dependencyManagement>
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
