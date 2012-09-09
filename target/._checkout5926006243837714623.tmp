@@ -1,6 +1,0 @@
-tree 07a1281b03465ba333ce03acf70e3b8f21167666
-parent eb3266f9ed7d9be9970e2663bd7f3e3ee6ac6b5d
-author Nikola Predolac <npredola@cs.cmu.edu> 1347173010 -0400
-committer Nikola Predolac <npredola@cs.cmu.edu> 1347173010 -0400
-
-[maven-release-plugin] prepare release hw0-npredola-0.0.4
