@@ -12,7 +12,6 @@ import edu.stanford.nlp.process.Tokenizer;
  */
 
 public class DependencyExample {
-
   /**
    * Tokenize a sentence in the argument, and print out the tokens to the console.
    * 
